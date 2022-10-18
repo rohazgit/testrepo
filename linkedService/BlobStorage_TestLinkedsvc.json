@@ -10,7 +10,7 @@
 					"referenceName": "AKV_testlinkedsvc",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "newsecret"
+				"secretName": "connectionstring"
 			}
 		}
 	}
