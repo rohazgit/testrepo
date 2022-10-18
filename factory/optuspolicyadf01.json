@@ -1,0 +1,9 @@
+{
+	"name": "optuspolicyadf01",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a924db5-c7ba-4ad3-8077-de2b04db38c9",
+		"tenantId": "17928398-834f-4756-9d9b-525628a13a45"
+	}
+}
