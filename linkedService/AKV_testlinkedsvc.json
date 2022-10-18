@@ -1,0 +1,10 @@
+{
+	"name": "AKV_testlinkedsvc",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://optuskeyvaultia29.vault.azure.net/"
+		}
+	}
+}
