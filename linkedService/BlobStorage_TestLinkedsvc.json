@@ -1,0 +1,17 @@
+{
+	"name": "BlobStorage_TestLinkedsvc",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "AKV_testlinkedsvc",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "newsecret"
+			}
+		}
+	}
+}
